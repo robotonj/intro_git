@@ -7,3 +7,4 @@ Gitの練習をしていきます
 　・git status
   ・git rm
   ・git status
+　・git diffの練習です 
